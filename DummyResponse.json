@@ -1,4 +1,4 @@
-{"data":[[
+{"data":[
   {
     "employeeId": 1,
     "employeeName": "John Doe",
@@ -31,5 +31,5 @@
     "address": "321 Pine St, Hamlet, Country",
     "dateOfBirth": "1999-05-03"
   }
-]
+
 ]}
